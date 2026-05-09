@@ -97,6 +97,8 @@ Daxam combines **social discovery**, **Web3 ownership**, **challenge economies**
 
 The result: every game can become an economy. Every player can become a creator. Every challenge can become an opportunity.
 
+[Live Demo](https://daxam.vercel.app)
+
 ---
 
 ## How It Works
@@ -312,7 +314,7 @@ Please open an issue first if you are proposing a significant change.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the  AGPL-3.0 License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
