@@ -99,6 +99,8 @@ The result: every game can become an economy. Every player can become a creator.
 
 [Live Demo](https://daxam.vercel.app)
 
+[Watch on YouTube](https://youtu.be/tcDqZbKEs20)
+
 ---
 
 ## How It Works
